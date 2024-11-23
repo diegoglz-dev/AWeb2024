@@ -22,3 +22,5 @@ Para la actividad se seleccionaron estás páginas:
 
 -   [cariverplate.com.ar](https://www.cariverplate.com.ar/)
 -   [cariverplate.com.ar/marketing](https://www.cariverplate.com.ar/marketing)
+
+El desarrollo de las mismas se puede encontrar en el siguiente enlace [https://diegoglz-dev.github.io/AWeb2024/index.html](https://diegoglz-dev.github.io/AWeb2024/index.html)

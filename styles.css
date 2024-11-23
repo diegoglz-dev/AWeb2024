@@ -25,7 +25,7 @@
         0,
         0,
         0,
-        0.4
+        0.6
     ); /* Ajusta la opacidad para oscurecer */
     z-index: 1; /* Coloca el overlay sobre la imagen */
 }
@@ -33,6 +33,14 @@
 /* Contenido del banner */
 .banner .container {
     z-index: 2; /* Coloca el texto sobre el overlay */
+    color: #fff; /* Text color with high contrast (change if needed) */
+    text-shadow: #000;
+}
+
+.banner .container h1,
+.banner .container p {
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Añade sombra para mejorar la legibilidad */
 }
 
 /* Texto de color rojo con contraste accesible */
