@@ -193,7 +193,7 @@
             <div class="card-body text-center">
                 <!-- Título y Enlace al Calendario -->
                 <div class="mb-4">
-                    <h5 class="mb-2">No te pierdas ningun partido</h5>
+                    <h5 class="mb-2">No te pierdas ningún partido</h5>
                     <a href="#" class="btn btn-danger">Calendario completo</a>
                 </div>
 
@@ -205,14 +205,16 @@
                                 style="width: 50px;">
                             <p class="mb-0">Estudiantes</p>
                         </div>
-                        <p class="text-center">VS</p>
+                        <div class="d-flex justify-content-center align-items-center">
+                            <p class="mb-0 fw-bold">VS</p>
+                        </div>
                         <div class="d-flex flex-column align-items-center">
                             <img src="img/escudo-river.png" alt="River Plate" class="img-fluid" style="width: 50px;">
                             <p class="mb-0">River Plate</p>
                         </div>
                     </div>
-                    <div class="d-flex justify-content-between mt-2">
-                        <p class="mb-0">Vie. 29/11/24 - 21:00</p>
+                    <div class="d-flex flex-column align-items-center mt-2">
+                        <p class="mb-2">Vie. 29/11/24 - 21:00</p>
                         <a href="#" class="btn btn-danger">Ver detalles del partido</a>
                     </div>
                 </div>
@@ -224,15 +226,17 @@
                             <img src="img/escudo-river.png" alt="River Plate" class="img-fluid" style="width: 50px;">
                             <p class="mb-0">River Plate</p>
                         </div>
-                        <p class="text-center">VS</p>
+                        <div class="d-flex justify-content-center align-items-center">
+                            <p class="mb-0 fw-bold">VS</p>
+                        </div>
                         <div class="d-flex flex-column align-items-center">
                             <img src="img/escudo-san-lorenzo.png" alt="San Lorenzo" class="img-fluid"
                                 style="width: 50px;">
                             <p class="mb-0">San Lorenzo</p>
                         </div>
                     </div>
-                    <div class="d-flex justify-content-between mt-2">
-                        <p class="mb-0">Mié. 04/12/24 - 21:00</p>
+                    <div class="d-flex flex-column align-items-center mt-2">
+                        <p class="mb-2">Mié. 04/12/24 - 21:00</p>
                         <a href="#" class="btn btn-danger">Ver detalles del partido</a>
                     </div>
                 </div>
@@ -240,39 +244,43 @@
         </div>
     </section>
 
+
     <!-- Carrusel -->
-    <div id="videoCarousel" class="carousel slide" data-bs-ride="carousel">
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <a href="https://www.youtube.com/watch?v=3nyP0_3YaQs" target="_blank"
-                    aria-label="Lluvia y goles para vencer a Barracas">
-                    <img src="img/ojo-millonario.png" class="d-block w-100"
-                        alt="Lluvia y goles en casa para vencer a Barracas | OJO MILLONARIO">
-                </a>
+    <section>
+        <h2 class="text-center mb-4">River TV</h2>
+        <div id="videoCarousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <a href="https://www.youtube.com/watch?v=3nyP0_3YaQs" target="_blank"
+                        aria-label="Lluvia y goles para vencer a Barracas">
+                        <img src="img/ojo-millonario.png" class="d-block w-100"
+                            alt="Lluvia y goles en casa para vencer a Barracas | OJO MILLONARIO">
+                    </a>
+                </div>
+                <div class="carousel-item">
+                    <a href="https://www.youtube.com/watch?v=t9cRnJiS3S4&t=4s" target="_blank"
+                        aria-label="Conferencia de prensa">
+                        <img src="img/conferencia-prensa.png" class="d-block w-100"
+                            alt="Marcelo Gallardo en conferencia de prensa | River vs. Barracas Central">
+                    </a>
+                </div>
+                <div class="carousel-item">
+                    <a href="https://www.youtube.com/watch?v=v0mSiFuSXkc" target="_blank" aria-label="Nuevo Predio">
+                        <img src="img/nuevo-predio.png" class="d-block w-100"
+                            alt="Así son las dos primeras canchas del NUEVO PREDIO fútbol formativo de River">
+                    </a>
+                </div>
             </div>
-            <div class="carousel-item">
-                <a href="https://www.youtube.com/watch?v=t9cRnJiS3S4&t=4s" target="_blank"
-                    aria-label="Conferencia de prensa">
-                    <img src="img/conferencia-prensa.png" class="d-block w-100"
-                        alt="Marcelo Gallardo en conferencia de prensa | River vs. Barracas Central">
-                </a>
-            </div>
-            <div class="carousel-item">
-                <a href="https://www.youtube.com/watch?v=v0mSiFuSXkc" target="_blank" aria-label="Nuevo Predio">
-                    <img src="img/nuevo-predio.png" class="d-block w-100"
-                        alt="Así son las dos primeras canchas del NUEVO PREDIO fútbol formativo de River">
-                </a>
-            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#videoCarousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Anterior</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#videoCarousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Siguiente</span>
+            </button>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#videoCarousel" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Anterior</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#videoCarousel" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Siguiente</span>
-        </button>
-    </div>
+    </section>
 
     <!-- Footer -->
     <footer class="bg-dark text-light py-4">
