@@ -18,9 +18,11 @@ Para su aprobación, se solicita entregar los siguientes puntos:
 
 ### Sitio web investigado
 
-Para la actividad se seleccionaron estás páginas:
+Para la actividad se seleccionaron las siguientes secciones del sitio web oficial del Club Atlético River Plate:
 
 -   [cariverplate.com.ar](https://www.cariverplate.com.ar/)
 -   [cariverplate.com.ar/marketing](https://www.cariverplate.com.ar/marketing)
 
-El desarrollo de las mismas se puede encontrar en el siguiente enlace [https://diegoglz-dev.github.io/AWeb2024/index.html](https://diegoglz-dev.github.io/AWeb2024/index.html)
+El desarrollo y propuestas de mejoras de las mismas se puede encontrar en el siguiente enlace [https://diegoglz-dev.github.io/AWeb2024/index.html](https://diegoglz-dev.github.io/AWeb2024/index.html)
+
+El informe final de la actividad se encuentra haciendo click en este [enlace](https://github.com/diegoglz-dev/AWeb2024/blob/main/Informe%20unidad%204%20-%20Capacitaci%C3%B3n%20en%20Accesibilidad%20Web%202024.pdf)
