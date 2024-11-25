@@ -1,6 +1,6 @@
 # Accesibilidad Web - XVI Edición - Año 2024
 
-Este repositorio contiene la actividad correspondiente a la unidad n.º 4 del curso de capacitación sobre accesibilidad web, edición 2024.
+Este repositorio contiene la actividad correspondiente a la unidad nº 4 del curso de capacitación sobre accesibilidad web, edición 2024.
 
 El curso es impartido por la Facultad de Informática de la Universidad Nacional de La Plata (UNLP), como parte de su compromiso con la promoción y adopción de buenas prácticas en accesibilidad web, fomentando un diseño inclusivo y accesible para todos los usuarios.
 
@@ -20,14 +20,18 @@ Para su aprobación, se solicita entregar los siguientes puntos:
 
 Para la actividad se seleccionaron las siguientes secciones del sitio web oficial del Club Atlético River Plate:
 
-<p align="center"><a href="https://www.cariverplate.com.ar/" target="_blank"><img src="https://raw.githubusercontent.com/diegoglz-dev/AWeb2024/refs/heads/main/img/logo-river.png" alt="River Plate Logo"></a></p>
+<p align="center">
+<a href="https://www.cariverplate.com.ar/" target="_blank" aria-label="River Plate sitio oficial"><img src="https://raw.githubusercontent.com/diegoglz-dev/AWeb2024/refs/heads/main/img/logo-river.png" alt="River Plate Logo"></a>
+</p>
 
-<p align="center"><a href="https://diegoglz-dev.github.io/AWeb2024/index.html"><img src="https://img.shields.io/badge/-Github Pages-444444?style=flat&logo=github" alt="Github%20Pages"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Informe%20Final-ee1b2e?style=flat" alt="Informe final"></a>
-
+<p align="center">
+<a href="https://diegoglz-dev.github.io/AWeb2024/index.html" target="_blank" aria-label="Github Pages"><img src="https://img.shields.io/badge/-Github Pages-444444?style=flat&logo=github" alt="Github%20Pages"></a>
+<a href="https://github.com/diegoglz-dev/AWeb2024/blob/main/Informe%20unidad%204%20-%20Capacitaci%C3%B3n%20en%20Accesibilidad%20Web%202024.pdf" target="_blank" aria-label="Informe final"><img src="https://img.shields.io/badge/-Informe%20Final-ee1b2e?style=flat" alt="Informe final"></a>
 </p>
 
 -   [cariverplate.com.ar](https://www.cariverplate.com.ar/)
 -   [cariverplate.com.ar/marketing](https://www.cariverplate.com.ar/marketing)
 
 El desarrollo y propuestas de mejoras de las mismas se puede encontrar en el siguiente enlace [https://diegoglz-dev.github.io/AWeb2024/index.html](https://diegoglz-dev.github.io/AWeb2024/index.html)
+
+El informe final de la actividad se encuentra haciendo click en este [enlace](https://github.com/diegoglz-dev/AWeb2024/blob/main/Informe%20unidad%204%20-%20Capacitaci%C3%B3n%20en%20Accesibilidad%20Web%202024.pdf)
