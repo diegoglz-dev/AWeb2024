@@ -16,13 +16,18 @@ Para su aprobación, se solicita entregar los siguientes puntos:
 
 -   Un informe donde se explique todo el proceso de accesibilización. En el mismo se debe justificar que las páginas modificadas son accesibles, mediante una evaluación automática y mediante comprobaciones manuales. Y también se debe explicar cómo el código de la página fue modificado y los recursos presentes en la misma, en pos de lograr la accesibilidad solicitada.
 
-### Sitio web investigado
+## Sitio web investigado
 
 Para la actividad se seleccionaron las siguientes secciones del sitio web oficial del Club Atlético River Plate:
+
+<p align="center"><a href="https://www.cariverplate.com.ar/" target="_blank"><img src="https://raw.githubusercontent.com/diegoglz-dev/AWeb2024/refs/heads/main/img/logo-river.png" alt="River Plate Logo"></a></p>
+
+<p align="center"><a href="https://diegoglz-dev.github.io/AWeb2024/index.html"><img src="https://img.shields.io/badge/-Github Pages-444444?style=flat&logo=github" alt="Github%20Pages"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Informe%20Final-ee1b2e?style=flat" alt="Informe final"></a>
+
+</p>
 
 -   [cariverplate.com.ar](https://www.cariverplate.com.ar/)
 -   [cariverplate.com.ar/marketing](https://www.cariverplate.com.ar/marketing)
 
 El desarrollo y propuestas de mejoras de las mismas se puede encontrar en el siguiente enlace [https://diegoglz-dev.github.io/AWeb2024/index.html](https://diegoglz-dev.github.io/AWeb2024/index.html)
-
-El informe final de la actividad se encuentra haciendo click en este [enlace](https://github.com/diegoglz-dev/AWeb2024/blob/main/Informe%20unidad%204%20-%20Capacitaci%C3%B3n%20en%20Accesibilidad%20Web%202024.pdf)
