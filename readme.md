@@ -23,8 +23,9 @@ Para su aprobación, se solicita entregar los siguientes puntos:
 </p>
 
 <p align="center">
-<a href="https://diegoglz-dev.github.io/AWeb2024/index.html" target="_blank" aria-label="Github Pages"><img src="https://img.shields.io/badge/Github%20Pages-181717?logo=github&logoColor=fff&style=flat" alt="Github%20Pages"></a>
 <a href="https://github.com/diegoglz-dev/AWeb2024/blob/main/Informe%20unidad%204%20-%20Capacitaci%C3%B3n%20en%20Accesibilidad%20Web%202024.pdf" target="_blank" aria-label="Informe final"><img src="https://img.shields.io/badge/Informe%20Final-EC1C24?logo=adobeacrobatreader&logoColor=fff&style=flat" alt="Informe final"></a>
+<a href="https://diegoglz-dev.github.io/AWeb2024/index.html" target="_blank" aria-label="Github Pages"><img src="https://img.shields.io/badge/Github%20Pages-181717?logo=github&logoColor=fff&style=flat" alt="Github%20Pages"></a>
+<a href="https://github.com/diegoglz-dev/AWeb2024/blob/main/Presentaci%C3%B3n%20unidad%204%20-%20Curso%20accesibilidad%20web.pdf" target="_blank" aria-label="Presentación"><img src="https://img.shields.io/badge/Presentación-EC1C24?logo=adobeacrobatreader&logoColor=fff&style=flat" alt="Presentación"></a>
 </p>
 
 Para la actividad se seleccionaron las siguientes secciones del sitio web oficial del Club Atlético River Plate:
